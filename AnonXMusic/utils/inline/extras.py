@@ -18,6 +18,9 @@ def close_markup(_):
         [
             [
                 InlineKeyboardButton(
+                    text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Itzz_me_innocentt"
+                    ),
+                InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
                     callback_data="close",
                 ),
