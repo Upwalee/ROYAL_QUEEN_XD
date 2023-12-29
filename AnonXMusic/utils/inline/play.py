@@ -69,13 +69,13 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✭𝙶𝚁𝙾𝚄𝙿✭", url=f"https://t.me/friendship_forever_group143"
+                text="✭𝙶𝚁𝙾𝚄𝙿✭", url=f"https://t.me/+AJJqT-D6Mq1kMmM1"
             ),
             InlineKeyboardButton(
                 text="✭ᴄʜᴀɴɴᴇʟ✭", url=f"https://t.me/khamoshiya01"
             ),
             InlineKeyboardButton(
-                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Itzz_me_innocentt"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Itzz_me_lnnocentt"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -94,10 +94,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✭𝙶𝚁𝙾𝚄𝙿✭", url=f"https://t.me/friendship_forever_group143"
+                text="✭𝙶𝚁𝙾𝚄𝙿✭", url=f"https://t.me/+AJJqT-D6Mq1kMmM1"
             ),
             InlineKeyboardButton(
-                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Itzz_me_innocentt"
+                text="✭ᴏᴡɴᴇʀ✭", url=f"https://t.me/Itzz_me_lnnocentt"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
